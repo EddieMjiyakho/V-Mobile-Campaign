@@ -1,0 +1,10 @@
+USAGE_EVENT_TYPE_ID;USAGE_EVENT_TYPE
+1;data-usage-in-bundle
+2;data-usage-out-of-bundle
+3;landline-call-per-minute
+4;on-net-call-per-minute
+5;on-net-call-per-second
+6;on-net-sms
+7;other-mobile-call-per-minute
+8;other-mobile-call-per-second
+9;other-mobile-sms
