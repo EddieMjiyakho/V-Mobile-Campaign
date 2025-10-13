@@ -1,19 +1,18 @@
 # scripts/subscriber_consolidation.py
 
-import pandas as pd
+import pandas as pd # type: ignore
 import os
 
 
 # Get the directory where this script is located
 script_dir = os.path.dirname(os.path.abspath(__file__))
-# Go up one level to project root, then to data folder
-project_root = os.path.dirname(script_dir)
-data_dir = os.path.join(project_root, 'data', 'raw')
+project_root = os.path.dirname(os.path.dirname(script_dir))  # Go up two levels to VMobile/
+data_dir = os.path.join(project_root, 'data')
+raw_data_dir = os.path.join(data_dir, 'raw')
 
-# Define file paths for clarity
-vmobile_path = os.path.join(data_dir, "VMobile_subscribers.csv")
-bluemobile_path = os.path.join(data_dir, "VMobile_subscribers_bluemobile.csv")
-arrowmobile_path = os.path.join(data_dir, "VMobile_subscribers_arrowmobile.csv")
+vmobile_path = os.path.join(raw_data_dir, "VMobile_subscribers.csv")
+bluemobile_path = os.path.join(raw_data_dir, "VMobile_subscribers_bluemobile.csv")
+arrowmobile_path = os.path.join(raw_data_dir, "VMobile_subscribers_arrowmobile.csv")
 
 # Load the three subscriber datasets
 print("Loading subscriber data...")

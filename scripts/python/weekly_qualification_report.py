@@ -1,13 +1,13 @@
-# scripts/weekly_qualification_report_fixed.py
+# scripts/weekly_qualification_report.py
 
-import pandas as pd
+import pandas as pd # type: ignore
 import os
 import re
 from datetime import datetime
 
 # Setup paths
 script_dir = os.path.dirname(os.path.abspath(__file__))
-project_root = os.path.dirname(script_dir)
+project_root = os.path.dirname(os.path.dirname(script_dir))
 data_dir = os.path.join(project_root, 'data')
 raw_data_dir = os.path.join(data_dir, 'raw')
 processed_data_dir = os.path.join(data_dir, 'processed')
