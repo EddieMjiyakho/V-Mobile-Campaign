@@ -9,6 +9,8 @@ Marketing lacked visibility into campaign performance — including who qualifie
 
 The project involved building a **complete data pipeline** — from raw, disparate data sources to an **interactive Power BI dashboard**, enabling data-driven decision-making to optimize marketing strategies and increase subscriber value.
 
+[`Use_Case_PDF`](https://drive.google.com/file/d/1Hs_Vb_dJu_Sly-lgfH4wLJ-CFSKeweHi/view?usp=sharing)
+
 ---
 
 ## 🎯 Business Problem
