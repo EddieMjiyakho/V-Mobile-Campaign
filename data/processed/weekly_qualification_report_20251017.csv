@@ -1,0 +1,360 @@
+first_name,last_name,msisdn,total_weekly_revenue,total_sms_count,total_voice_call_count,region
+Unknown,Subscriber,27700408017,313.36,0,11,Unknown
+Unknown,Subscriber,27700498064,262.96,0,9,Unknown
+Unknown,Subscriber,27700536653,306.59999999999997,0,12,Unknown
+Donald,Lowe,27700594567,193.56,0,7,Ekurhuleni
+Sibonelo,Jiyane,27701302724,167.2,0,8,Johannesburg
+Unknown,Subscriber,27701422836,200.14000000000001,101,6,Unknown
+Sibongile,Gxabhashe,27701525711,385.11,156,11,Welkom
+Gugulethu,Dimbani,27702088773,546.73,289,8,Pretoria
+Unknown,Subscriber,27702126483,303.38,0,6,Unknown
+Lewis,Evans,27702796440,291.35,0,11,Pietermaritzburg
+Nokulunga,Mhlungu,27702970958,299.52,222,5,West Rand
+Unknown,Subscriber,27702983213,211.38,143,10,Unknown
+Luyanda,Madinane,27703027009,241.0,0,9,Cape Town
+Owethu,Khanyile,27703320064,142.23,0,6,Port Elizabeth
+Unknown,Subscriber,27703402404,391.89,333,7,Unknown
+Busisiwe,Hadebe,27703678152,410.90999999999997,176,10,Boksburg
+Lindsay,Blair,27704131178,352.65999999999997,278,3,Cape Town
+John,Tran,27704465602,290.21000000000004,57,6,Pretoria
+Unknown,Subscriber,27704552601,297.1,0,9,Unknown
+Andile,Sangweni,27704702209,387.32,167,11,Johannesburg
+Nomathalente,Shoba,27704753382,288.46,0,10,Port Elizabeth
+Unknown,Subscriber,27705295490,41.14,0,5,Unknown
+Bandile,Ngungunyana,27705723746,239.28,0,6,Soshanguve
+Andrea,Calderon,27705752990,173.76,0,10,Durban
+Unknown,Subscriber,27705781665,413.97,0,8,Unknown
+Thembeka,Sontuli,27705989494,223.58,74,9,Pretoria
+Henry,Smith,27706327368,281.83,0,9,Pretoria
+Unknown,Subscriber,27706347171,279.78999999999996,0,9,Unknown
+Bhekisisa,Ndiyema,27706374564,304.96,0,9,West Rand
+Michael,Galloway,27706833765,197.21,0,14,Witbank
+Unknown,Subscriber,27706908401,347.47,174,11,Unknown
+Sibusisiwe,Mtolo,27707033903,291.42,0,10,Ekurhuleni
+David,Nielsen,27707347477,160.05,0,10,Port Elizabeth
+Unknown,Subscriber,27707578628,190.07999999999998,0,10,Unknown
+Donald,Taylor,27707724345,256.8,118,2,Pietermaritzburg
+Nicole,Ward,27707848987,127.11,1,13,Pietermaritzburg
+Linda,Mellor,27708030287,289.93,0,6,Durban
+Unknown,Subscriber,27708162164,296.15,0,10,Unknown
+Silondile,Nyawo,27708208823,168.56,0,5,Cape Town
+Andile,Mangethe,27709050860,245.37,0,14,Port Elizabeth
+Unknown,Subscriber,27709138730,175.02,0,8,Unknown
+Nozizwe,Mawewe,27709188166,477.21,346,9,East London
+Carlos,Johnson,27709367729,128.85999999999999,0,3,Johannesburg
+Unknown,Subscriber,27709654582,438.40999999999997,0,9,Unknown
+Thabisa,Mgenge,27709798813,313.99,147,11,Bloemfontein
+Londiwe,Mabhoko,27710091970,325.68,0,6,Cape Town
+Unknown,Subscriber,27710361466,203.99,0,7,Unknown
+Nomcebo,Mntimande,27710816964,152.38,0,8,Welkom
+Lungile,Shozi,27711214656,299.74,0,8,Benoni
+Unknown,Subscriber,27711312486,244.37,0,5,Unknown
+Dumisani,Jobe,27711513959,135.22,0,11,West Rand
+Mitchell,Clark,27711572067,421.46999999999997,165,12,Polokwane
+Joan,Naylor,27711688823,246.27,0,13,Klerksdorp
+Thando,Vilakazi,27711810165,227.92,153,9,Johannesburg
+Unknown,Subscriber,27712113164,144.11,0,9,Unknown
+William,Wilson,27712305098,162.9,0,7,Bloemfontein
+Unknown,Subscriber,27712385865,164.06,0,6,Unknown
+Amahle,Mdlanyoka,27712488797,132.24,51,11,Cape Town
+Unknown,Subscriber,27712755488,87.84,0,9,Unknown
+Julia,Howard,27713173581,178.85,0,7,Ekurhuleni
+Simphiwe,Makhoba,27713677185,258.3,0,8,Polokwane
+Gugu,Gcaleka,27714005115,232.25,0,8,Nelspruit
+Unknown,Subscriber,27714185136,265.07,0,8,Unknown
+Mandla,Mtuswa,27714247268,358.64,0,12,George
+Patrick,Ferrell,27714271871,394.61,0,12,Kimberley
+Sandile,Ndonga,27715586306,372.49,199,9,Kaapstad
+Unknown,Subscriber,27715983327,184.42999999999998,0,10,Unknown
+Dumisani,Musi,27716126226,264.19,0,12,Thohoyandou
+Guy,Kelly,27716808757,69.31,0,9,Rustenburg
+Unknown,Subscriber,27717286902,218.11,0,4,Unknown
+Jason,Hahn,27717601695,340.49,295,7,Pretoria
+Simphiwe,Nondlela,27717893653,99.96000000000001,0,8,Soshanguve
+Unknown,Subscriber,27718061525,434.38,178,11,Unknown
+Ashley,Miller,27718136627,236.4,240,7,Ekurhuleni
+Michael,Cooper,27718448667,418.32,51,11,Durban
+Unknown,Subscriber,27718983643,466.84000000000003,139,9,Unknown
+Sihawukele,Nongalo,27719015850,282.99,0,11,Ekurhuleni
+Nomthandazo,Mbuyise,27719118275,410.32,233,7,Ekurhuleni
+Unknown,Subscriber,27719396045,213.94,0,8,Unknown
+Hannah,Young,27719729993,296.92,0,14,Johannesburg
+Unknown,Subscriber,27719961318,116.67999999999999,0,7,Unknown
+Mnqobi,Hlongwane,27720029924,280.1,0,14,Cape Town
+Unknown,Subscriber,27720125760,152.54,0,7,Unknown
+Sihawukele,Ndawo,27720593040,183.19,0,9,Johannesburg
+Unknown,Subscriber,27720714523,100.91,0,8,Unknown
+Tom,Warner,27721198397,729.44,143,17,Klerksdorp
+Unknown,Subscriber,27721340588,298.0,16,4,Unknown
+Nomathalente,Gubhuza,27721345908,184.35000000000002,0,7,Cape Town
+Unknown,Subscriber,27722330476,797.1800000000001,248,12,Unknown
+Katherine,Smith,27722745553,152.95999999999998,0,12,Port Elizabeth
+Lwat,Msane,27722747624,258.48,0,9,Ekurhuleni
+Unknown,Subscriber,27723131974,616.89,167,12,Unknown
+Mlungisi,Jama,27723484978,123.96000000000001,0,7,Cape Town
+Thuthukile,Nyambose,27723956054,623.83,383,11,Bloemfontein
+Unknown,Subscriber,27724493478,268.18,0,8,Unknown
+Zakhele,Mabika,27724545371,457.67,278,8,Port Elizabeth
+Gugulethu,Hlophe,27724778385,423.92,0,13,Johannesburg
+Unknown,Subscriber,27725138892,740.19,296,18,Unknown
+Nomathalente,Ntshingila,27725463719,272.68,135,5,Durban
+Unknown,Subscriber,27726147995,350.74,0,10,Unknown
+Vanessa,Brooks,27726176224,313.52,103,10,Cape Town
+Unknown,Subscriber,27726606265,194.19,0,5,Unknown
+Jabulani,Mafulela,27727246392,405.58,258,10,Newcastle
+Ruth,Griffiths,27727400477,273.42,0,11,Pretoria
+Unknown,Subscriber,27728019757,370.49,301,11,Unknown
+Janet,Williams,27728547628,361.09,308,10,Springs
+Unknown,Subscriber,27728744137,319.18,0,4,Unknown
+Antony,Buckley,27728781369,318.85,0,11,Cape Town
+Bhekizizwe,Mbokazi,27729448431,191.87,0,9,Pretoria
+Unknown,Subscriber,27729603611,344.78,0,9,Unknown
+Sibusisiwe,Andile,27729619869,339.73,0,8,Durban
+Nomagugu,Nkomo,27729675831,316.62,0,13,West Rand
+Unknown,Subscriber,27729733969,282.92,0,11,Unknown
+Amahle,Ngobese,27729817295,138.82,0,7,Ekurhuleni
+Victor,Watts,27729817935,167.97,0,3,Cape Town
+Annt,Baker,27729820192,129.45,0,11,Durban
+Unknown,Subscriber,27730008139,101.31,0,7,Unknown
+Amelia,Oliver,27730210420,310.52,0,16,Johannesburg
+Joshua,Booth,27730744349,144.48,0,9,Cape Town
+Charlene,Randall,27731726871,344.88,233,8,Cape Town
+Mandlakhe,Gotsholo,27732045020,237.71,0,6,Welkom
+Unknown,Subscriber,27732183258,310.99,0,11,Unknown
+Jason,Ryan,27732301840,147.41,0,9,Welkom
+Musa,Jibela,27732577687,287.53,222,7,Witbank
+Unknown,Subscriber,27732960859,365.3,73,11,Unknown
+Siphesihle,Mnangwe,27733128243,250.05,0,10,Vereeniging
+Musa,Nodlomo,27733191788,201.78,0,9,Soshanguve
+Amahle,Magujwa,27733195138,246.17999999999998,106,10,Newcastle
+Nobantu,Duze,27734011187,256.04,0,8,Krugersdorp
+Unknown,Subscriber,27734401930,419.65,213,11,Unknown
+Londiwe,Ximba,27734512854,620.41,287,11,East London
+Unknown,Subscriber,27734580420,277.23,0,6,Unknown
+Chad,Welch,27734719249,401.2,226,8,East London
+Mandlakhe,Biyase,27734762586,363.84000000000003,242,5,Durban
+Unknown,Subscriber,27734810654,351.22999999999996,0,8,Unknown
+Siphesihle,Ngcolosi,27735045002,240.36,0,7,West Rand
+Simphiwe,Ludonga,27735515302,409.62,284,11,Rustenburg
+Unknown,Subscriber,27735555294,223.79999999999998,0,6,Unknown
+Gugu,Mnyandu,27736463373,250.16,167,10,Durban
+Sandra,Harper,27736548736,378.25,0,10,Pretoria
+Unknown,Subscriber,27736685370,131.54,0,7,Unknown
+Zinhle,Ndabansele,27736732237,151.89,0,6,Durban
+Hannah,Marquez,27736988792,200.35,0,4,West Rand
+Unknown,Subscriber,27737391314,388.59000000000003,0,8,Unknown
+Danielle,Sharp,27737674304,117.71000000000001,0,7,Klerksdorp
+Mandla,Gambu,27738031248,334.75,155,10,Johannesburg
+Unknown,Subscriber,27738285947,310.84000000000003,0,9,Unknown
+Lungile,Nzimande,27738312041,309.61,202,3,Ekurhuleni
+Mthokozisi,Ximba,27738452446,271.79,213,10,Pretoria
+Kyle,Brown,27738718563,235.07000000000002,194,11,Cape Town
+Nancy,Baker,27739126870,250.21,0,12,West Rand
+Unknown,Subscriber,27739163904,531.2,201,11,Unknown
+Mcebisi,Dubandlela,27739228461,143.11,0,4,Durban
+Gregory,Robinson,27739493210,228.26,0,8,Cape Town
+Thoe,Pierce,27739579306,504.13,0,13,Springs
+Unknown,Subscriber,27739590700,196.61,49,8,Unknown
+Mzamo,Sembathwa,27740027276,366.83,0,8,Johannesburg
+Olwethu,Mnomiya,27740348711,363.47,0,11,Durban
+Unknown,Subscriber,27740407777,352.28,233,8,Unknown
+Rita,Kaur,27740678513,563.12,295,13,Johannesburg
+Brittany,Johnson,27740715738,255.14999999999998,156,3,Johannesburg
+Chelsea,Jackson,27740837531,251.51,0,9,Durban
+Unknown,Subscriber,27741042905,233.29,0,11,Unknown
+Thalente,Ngidi,27741562035,153.16,0,4,Middelburg
+Unknown,Subscriber,27741797104,480.97999999999996,221,9,Unknown
+Nothando,Shoyisa,27742020320,345.88,192,7,Ekurhuleni
+Unknown,Subscriber,27743282991,454.64,349,7,Unknown
+William,Gonzalez,27743417384,236.03,0,12,Cape Town
+Sibonelo,Ntombela,27743941564,124.2,39,4,Durban
+Unknown,Subscriber,27744036820,333.75,25,10,Unknown
+Guy,Alexander,27744146237,142.67,0,9,Durban
+Nomalanga,Ndima,27744810767,200.73000000000002,0,8,Pretoria
+Unknown,Subscriber,27745481138,206.6,24,10,Unknown
+Thomas,Reed,27745495609,372.62,0,7,Kimberley
+Nhlanhla,Mzizi,27745858892,311.62,0,5,Ekurhuleni
+Unknown,Subscriber,27746205845,293.74,0,6,Unknown
+Thandazile,Khathide,27746332321,224.77,0,7,Ekurhuleni
+Gugu,Mthonti,27746545449,251.05,26,7,Pretoria
+Unknown,Subscriber,27746721111,144.12,0,4,Unknown
+Rachael,Pritchard,27746984621,143.91000000000003,0,3,Cape Town
+Teresa,Hurst,27747009358,199.07,0,14,Cape Town
+Unknown,Subscriber,27747092401,161.93,0,7,Unknown
+Njabulo,Ndabezitha,27747753873,218.51,25,5,Johannesburg
+Sibusisiwe,Mazibuko,27748023717,419.95,161,7,Vereeniging
+Unknown,Subscriber,27748057905,450.43,187,12,Unknown
+Sibonelo,Mavundla,27748419705,418.85,130,8,Cape Town
+Nokulunga,Gedeza,27749758825,215.39000000000001,68,10,Johannesburg
+Unknown,Subscriber,27749852120,213.72,110,6,Unknown
+Minenhle,Mondise,27749895634,220.2,0,12,Johannesburg
+Unknown,Subscriber,27749951541,450.41,165,15,Unknown
+Mcebisi,Mshikela,27750383551,152.98,0,2,Cape Town
+Thabisile,Gabhisa,27750688826,429.42,0,14,Pretoria
+Njabulo,Dumisa,27750711986,193.85,0,11,Johannesburg
+Unknown,Subscriber,27750818959,329.34999999999997,174,5,Unknown
+Luyanda,Kubheka,27751166645,137.7,0,8,Port Elizabeth
+Nonjabulo,Bayeni,27752176619,273.34000000000003,142,9,Durban
+Unknown,Subscriber,27753079529,658.45,268,17,Unknown
+Busisiwe,Nyanda,27753131305,328.76000000000005,241,9,Newcastle
+Mark,Davies,27753154430,304.82,0,12,Pretoria
+Unknown,Subscriber,27753445274,355.65999999999997,66,7,Unknown
+Chelsea,Ryan,27753625790,143.07999999999998,117,5,Boksburg
+Unknown,Subscriber,27753729547,151.8,0,7,Unknown
+Thabani,Jamile,27754088048,481.95,0,12,Nelspruit
+Bhekisisa,Sokhela,27754907568,261.58,0,6,Vereeniging
+Unknown,Subscriber,27755026696,239.73,0,10,Unknown
+Nomathalente,Nhlane,27755709632,141.23,0,8,Vereeniging
+Trevor,Campos,27755830723,332.93,52,9,Johannesburg
+Owethu,Mafulela,27756114668,174.97,0,13,East London
+Mlungisi,Vundla,27756759873,649.0,91,15,Newcastle
+Unknown,Subscriber,27756849299,139.69,0,11,Unknown
+Ryan,Taylor,27757073185,405.75,36,15,Krugersdorp
+Nobuhle,Mgilija,27757293964,127.8,0,9,Ekurhuleni
+Unknown,Subscriber,27757311186,178.09,32,6,Unknown
+Carole,Matthews,27758098548,197.08,0,12,Witbank
+Rachel,Hayes,27758159426,482.49,250,6,West Rand
+Unknown,Subscriber,27758622777,281.38,0,9,Unknown
+Teresa,Walsh,27758744686,232.99,31,5,Cape Town
+Siphesihle,Mjwara,27758744842,110.22,0,3,Cape Town
+Unknown,Subscriber,27758773144,135.94,26,9,Unknown
+Mthokozisi,Mthethwa,27758901102,505.29,0,17,Johannesburg
+Sihawukele,Makhanya,27759277187,249.53,48,13,Ekurhuleni
+Unknown,Subscriber,27759434978,143.92,0,7,Unknown
+Kendra,Galloway,27759568476,56.78,0,4,Vereeniging
+Unknown,Subscriber,27759967153,255.32,0,8,Unknown
+Thabisa,Mgcaleka,27760632550,174.38,0,7,Durban
+Nathan,Harris,27760905385,297.15,224,9,Durban
+Unknown,Subscriber,27761164231,124.38999999999999,0,8,Unknown
+Londisizwe,Ndaba,27761389488,226.54,0,8,Cape Town
+Gugulethu,Mahlase,27761465695,226.85,0,12,Cape Town
+Unknown,Subscriber,27761477359,184.37,0,6,Unknown
+Thabisile,Mdaka,27761598472,336.03,123,9,Cape Town
+Monica,Evans,27761704638,150.45,0,10,Cape Town
+Unknown,Subscriber,27761935085,354.66,0,11,Unknown
+Melanie,Bell,27762338119,112.28,0,3,Durban
+Heather,Thompson,27763355406,446.71,0,9,Port Elizabeth
+Unknown,Subscriber,27763379489,185.45,0,6,Unknown
+Joshua,Lewis,27763735255,157.73,0,5,Johannesburg
+Lungile,Siyaya,27764031374,407.36,166,7,Ekurhuleni
+Unknown,Subscriber,27764351821,285.3,0,10,Unknown
+Busisiwe,Mzulwini,27764364545,188.33,0,9,Cape Town
+Jill,Miah,27765030894,286.93,0,12,Ekurhuleni
+Unknown,Subscriber,27765054595,147.79,53,7,Unknown
+Mnqobi,Dlamane,27765569160,165.07999999999998,0,5,Ekurhuleni
+Unknown,Subscriber,27766307074,382.24,41,10,Unknown
+Alexander,Le,27766354480,233.93,55,7,Krugersdorp
+Thembisile,Lukhele,27766591547,305.03,0,8,Durban
+Unknown,Subscriber,27767240786,155.85,0,6,Unknown
+Duncan,Humphries,27767399287,273.27000000000004,0,5,Vereeniging
+Unknown,Subscriber,27767578966,110.37,0,9,Unknown
+Erica,Mcclain,27767632849,262.5,13,12,Ekurhuleni
+Thalente,Galu,27767639036,92.31,0,4,Johannesburg
+Unknown,Subscriber,27767768686,329.28000000000003,186,6,Unknown
+Mohammad,Smith,27767843485,173.1,0,7,Klerksdorp
+Nonjabulo,Nhlanhlampofu,27767973262,267.89,0,13,Ekurhuleni
+Unknown,Subscriber,27768138021,170.69,0,11,Unknown
+Thembisile,Shelembe,27768158896,396.47,0,9,Cape Town
+Unknown,Subscriber,27768741126,107.21,0,8,Unknown
+Bhekokwakhe,Mbatha,27769031933,221.76999999999998,0,9,Johannesburg
+Kirsty,May,27769640012,254.69,0,11,Port Elizabeth
+Linda,Morales,27769652162,172.7,0,5,Cape Town
+Nomusa,Hlomuka,27770570082,306.88,0,10,Ekurhuleni
+Thando,Ndlela,27770945460,213.56,0,7,Durban
+Georgia,Price,27770950073,188.19,0,10,Johannesburg
+Unknown,Subscriber,27770953276,288.44,0,11,Unknown
+Danielle,Rodriguez,27771177580,176.07,37,5,Cape Town
+Mario,Smith,27771192228,210.19,135,7,Cape Town
+Unknown,Subscriber,27771440865,231.51999999999998,0,5,Unknown
+Kathryn,Ryan,27771477596,362.93,294,7,West Rand
+Musa,Sondisa,27771583203,61.22,45,5,Cape Town
+Unknown,Subscriber,27771918275,237.17999999999998,28,9,Unknown
+Shawn,Flowers,27771920365,230.89,0,14,East London
+Amahle,Cwalile,27772909252,116.88,155,3,Johannesburg
+Unknown,Subscriber,27774160565,147.44,0,9,Unknown
+Mcebisi,Khosini,27774163254,106.97999999999999,25,5,Cape Town
+Njabulo,Sikobi,27774230241,267.24,0,8,Vereeniging
+Unknown,Subscriber,27775025294,415.48,149,7,Unknown
+SimphiweyiNkosi,Dlambula,27775270396,339.42,191,4,Pretoria
+Silondile,Guliwe,27775448067,346.90000000000003,110,10,Cape Town
+Unknown,Subscriber,27775593486,207.82999999999998,0,11,Unknown
+Thando,Mavundla,27775640687,291.38,0,14,Port Elizabeth
+Amanda,Martinez,27775957924,252.37,0,9,Ekurhuleni
+Unknown,Subscriber,27776010419,549.9300000000001,510,9,Unknown
+Zenzile,Phuthini,27776328452,241.19,132,4,Uitenhage
+Siyabonga,Hlatshwayo,27776715116,300.3,0,12,East London
+Unknown,Subscriber,27776745900,414.89,248,10,Unknown
+Bandile,Nkwanyana,27776874455,282.42,119,10,Pretoria
+Ashley,Bond,27777008770,431.59,6,9,Ekurhuleni
+Unknown,Subscriber,27777782468,189.99,64,9,Unknown
+Wanda,Santos,27777937454,184.88,0,3,Durban
+Marcus,Morris,27778478997,457.99,218,10,Ekurhuleni
+Unknown,Subscriber,27778724103,224.51,0,8,Unknown
+Karen,Carter,27779152086,259.89,0,11,Johannesburg
+Unknown,Subscriber,27779234888,149.55,0,6,Unknown
+Bhekokwakhe,Mafobo,27779545098,261.68,133,5,Cape Town
+Langalibalele,Nyambose,27779961344,366.9,0,8,Krugersdorp
+Unknown,Subscriber,27780056550,306.04,101,8,Unknown
+Amahle,Mbhobho,27780348072,422.45,258,8,Cape Town
+Dean,Stevens,27780470523,657.88,374,11,Durban
+Unknown,Subscriber,27781102199,297.91999999999996,0,6,Unknown
+Zenzile,Phuthini,27781238778,265.49,0,10,Bloemfontein
+Vincent,Read,27781311807,281.42,0,11,Johannesburg
+Unknown,Subscriber,27782499920,117.36,0,3,Unknown
+Todd,Jones,27782561720,212.71,0,14,Cape Town
+Unknown,Subscriber,27782686315,167.22,0,10,Unknown
+Nobantu,Mlondo,27782940238,276.28000000000003,0,11,Boksburg
+Jacqueline,Sutton,27783253285,359.73,223,10,Pretoria
+Unknown,Subscriber,27783581201,102.03,0,10,Unknown
+Andile,Thumbela,27784301965,461.38,322,8,Soshanguve
+Bhekokwakhe,Mcwaye,27785690836,51.44,0,6,Ekurhuleni
+Khanyisile,Mthethwa,27786671547,336.25,237,6,Cape Town
+Mlungisi,Sokhela,27786674547,471.45000000000005,425,6,Ekurhuleni
+Unknown,Subscriber,27786740905,269.63,180,12,Unknown
+Kathleen,Romero,27787356407,150.56,0,6,West Rand
+Londisizwe,Gcwabe,27787961134,335.89,101,10,Cape Town
+Unknown,Subscriber,27788255410,316.14,188,8,Unknown
+Amahle,Ndima,27788451269,343.99,0,14,Ekurhuleni
+Unknown,Subscriber,27788798367,85.03,0,7,Unknown
+Daniel,Burton,27789209708,335.73,172,8,Johannesburg
+Unknown,Subscriber,27789600650,148.31,0,11,Unknown
+Amy,Robinson,27789793342,315.24,0,9,Pietermaritzburg
+Thabisile,Cebekhulu,27789810620,380.23,0,11,Ekurhuleni
+Zibuyile,Ndlandla,27790022877,568.3,98,7,Vereeniging
+S'fiso,Ndawonde,27790250774,501.82,300,10,East London
+Unknown,Subscriber,27790328958,302.19,168,8,Unknown
+Nhlanhla,Nhlane,27790681902,347.29,195,13,Johannesburg
+Matthew,Davis,27790732780,272.44,0,14,Pretoria
+Unknown,Subscriber,27790781178,112.87,0,7,Unknown
+Dumisile,Mazwi,27790892604,457.48999999999995,0,10,Bloemfontein
+Julie,Marsden,27790900159,505.26,0,14,Cape Town
+Unknown,Subscriber,27791549028,176.62,0,7,Unknown
+Vusumuzi,Bhovungana,27791653270,120.49000000000001,0,4,Polokwane
+Mandla,Dludlu,27791923440,103.92,0,4,Boksburg
+Unknown,Subscriber,27792106918,137.8,0,12,Unknown
+Mthokozisi,Kubheka,27792273093,285.58,0,10,Soshanguve
+Lucy,Wright,27792348065,228.22,0,10,Johannesburg
+Unknown,Subscriber,27792624290,159.66,0,5,Unknown
+Nhlanhla,Shandu,27792936129,121.62,0,6,Newcastle
+Zibuyile,Sithuli,27793605906,100.85000000000001,0,7,Durban
+Thabisile,Khuzwayo,27795199855,198.85,11,5,Durban
+Nozizwe,Lange,27795246915,188.87,0,11,Pretoria
+Unknown,Subscriber,27795728959,259.49,0,11,Unknown
+Jennifer,Lewis,27795825108,147.48,0,10,Cape Town
+Unknown,Subscriber,27795885602,226.56,0,11,Unknown
+SimphiweyiNkosi,Mahlinza,27796004479,341.5,142,11,Nelspruit
+SimphiweyiNkosi,Msani,27796205527,228.39999999999998,0,7,Johannesburg
+Unknown,Subscriber,27796509072,239.7,125,6,Unknown
+Thandazile,Fakude,27796664125,284.2,296,4,Johannesburg
+Allison,Obrien,27796677912,110.35,0,3,Cape Town
+Unknown,Subscriber,27796967165,275.63,0,11,Unknown
+Bhekokwakhe,Dwala,27797256727,213.98,0,11,Durban
+Randall,Rocha,27797558478,193.63,0,8,Johannesburg
+Unknown,Subscriber,27798062959,278.34,0,5,Unknown
+Veronica,Bowman,27798290960,267.12,0,9,Johannesburg
+Unknown,Subscriber,27798418621,153.99,0,6,Unknown
+Jeffrey,Morgan,27798562157,121.48,0,8,Krugersdorp
+Mthokozisi,Sishiya,27798844055,182.53,0,4,Ekurhuleni
+Gerald,Bailey,27799314934,135.4,0,11,Soshanguve
+Jeffrey,Bright,27799698904,167.41,0,10,Pretoria
+Sithembiso,Mvubu,27799933613,300.49,0,12,Benoni

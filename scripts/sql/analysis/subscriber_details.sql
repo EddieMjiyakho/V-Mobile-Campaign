@@ -8,7 +8,7 @@ WITH weekly_subscriber_revenue AS (
         COUNT(CASE WHEN usage_event_type_id IN (6, 10) THEN 1 END) AS sms_events,
         COUNT(CASE WHEN usage_event_type_id IN (3, 4, 5, 8, 9) THEN 1 END) AS voice_events
     FROM usage_records
-    WHERE usage_event_date_time IS NOT NULL
+    WHERE usage_event_date_time IS NOT NULL --dont count revenue for unknown dates
     GROUP BY msisdn, DATE_TRUNC('week', usage_event_date_time)::DATE
 )
 SELECT 

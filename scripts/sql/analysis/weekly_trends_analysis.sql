@@ -1,4 +1,5 @@
 -- Weekly Trends Analysis (PostgreSQL)
+-- FIX total subcribers and qualification rate
 WITH weekly_aggregates AS (
     SELECT 
         DATE_TRUNC('week', usage_event_date_time)::DATE AS week_start,

@@ -49,7 +49,11 @@ try:
     
     # Load all tables - LOOKUP FILES ARE IN RAW FOLDER
     tables_to_load = {
+        'all_subscribers': ('processed', 'combined_subscribers_all.csv', ','),
         'master_subscribers': ('processed', 'combined_subscribers_master.csv', ','),
+        'subscriber_details': ('processed', 'subscriber_details.csv', ','),
+        'regional_analysis': ('processed', 'regional_analysis.csv', ','),
+        'weekly_summary_trends': ('processed', 'weekly_summary_trends.csv', ','),
         'city_lookup': ('raw', 'VMobile_city_lookup.csv', ';'),  # Use semicolon delimiter
         'usage_event_lookup': ('raw', 'VMobile_usage_event_lookup.csv', ';')  # Use semicolon delimiter
     }
